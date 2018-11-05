@@ -14,5 +14,6 @@ int CalculateAgeIn100Years(const int years)
 int main()
 {
     std::cout << "Hello" << std::endl;
+    std::cout << function_1() << std::endl;
     std::cout << CalculateAgeIn100Years(18) << std::endl;
 }
